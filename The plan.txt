@@ -1,0 +1,13 @@
+The plan:
+6 months from Feb 12 - August 12
+
+	- Start in unity.
+	- Continue in - to be determined
+
+Matching game:
+
+Keep assets independant of system (dont use unity specific item types)
+
+Add levels of complexity as we work
+
+David Kinley:
